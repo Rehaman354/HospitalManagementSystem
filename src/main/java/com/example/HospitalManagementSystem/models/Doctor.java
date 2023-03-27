@@ -1,4 +1,4 @@
-package com.example.HospitalManagementSystem;
+package com.example.HospitalManagementSystem.models;
 
 public class Doctor {
     private int doctorID;//primary key

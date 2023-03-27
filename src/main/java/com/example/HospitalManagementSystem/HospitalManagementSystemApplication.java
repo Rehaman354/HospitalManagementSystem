@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 @SpringBootApplication
 public class HospitalManagementSystemApplication {
@@ -13,4 +14,6 @@ public class HospitalManagementSystemApplication {
 		SpringApplication.run(HospitalManagementSystemApplication.class, args);
 	}
       //operations of data entry and data retrieval and  various operations
+
+
 }
